@@ -35,3 +35,5 @@ Screen images
 Code
 =============
 If you want to view the source code you must have Construct 2 program installed and open the '.capx' file located in 'src' folder.
+
+You can find server side scripts (PHP) over 'Server' folder.
