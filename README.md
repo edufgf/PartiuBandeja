@@ -6,8 +6,8 @@ HTML5 web app built with Construct 2.
 This app shows dining halls menu of Federal University of Rio de Janeiro.
 
 - Display dining menu of the entire week
-- Report/View dinig halls line size
-- Report/View meal rate.
+- Report/View dining halls line size
+- Report/View meal rate
 
 <b>Android App</b><br>
 https://play.google.com/store/apps/details?id=com.edufgf.com.partiubandeja
