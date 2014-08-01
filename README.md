@@ -20,3 +20,5 @@ http://dcc.ufrj.br/~edufgf/partiubandeja/howto.html
 
 <b>Facebook page</b><br>
 www.fb.com/partiubandeja
+
+If you want to view the source code you must have Construct 2 program installed and open the '.capx' file located in 'src' folder.
